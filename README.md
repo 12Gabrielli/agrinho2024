@@ -6,13 +6,13 @@
 <a href="https://www.buymeacoffee.com/haseebheaven"><img src="https://img.buymeacoffee.com/button-api/?text=Support Code Runner&emoji=&slug=haseebheaven&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 
-## Introduction
+## Introdução
 Check out my first awesome plugin for **ChatGPT** that lets you Run code in 70+ languages! 🙌👩‍💻👨‍💻 </br>
 This code will run this Plugin on your local machine with localhost:8000 as the URL. </br>
 If you want to use Hosted one then check The Website is hosted on [Vercel](https://code-runner.heavenplugins.com)</br>
 Checkout new designed website for [Code Runner](https://code-runner-plugin.b12sites.com) </br>
 
-## Information
+## Informação
 💻 **Run And Save Code** in over 70 programming languages with ease! **Chat-GPT Code Runner** offers a *versatile* and *flexible* coding experience for developers of all levels.</br>
 💾 Download Chat-GPT **Code Runner** today and start coding like a pro!</br>
 Ready to supercharge your coding experience? Check out Code Runner Plugin, the ultimate Chat-GPT plugin for running and saving code in over 70 programming languages!</br>
