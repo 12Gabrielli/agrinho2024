@@ -137,4 +137,4 @@ The privacy policy for Plugin and Website could be found here [Privacy Policy](h
 make sure you read them carefully before executing them.
 
 Code Runner Plugin is developed by [Haseeb Heaven](https://github.com/haseeb-heaven), a software engineer and AI enthusiast.</br>
-If you have any feedback or suggestions for Code Runner Plugin, feel free to contact me at [Email](haseebmir.hm@gmail.com) or open an issue on GitHub.</br>
+If you have any feedback or suggestions for Code Runner Plugin, feel free to contact me at [Email](bueno.costa.gabrielli@escola.pr.gov.br) or open an issue on GitHub.</br>
