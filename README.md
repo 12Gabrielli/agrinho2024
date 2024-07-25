@@ -89,13 +89,13 @@ To use Code Runner Plugin, follow these steps:
   - Given the program [YOUR_CODE] and only compile the program: This prompt will compile the program [YOUR_CODE]. Please replace [YOUR_CODE] with your specific code when using this prompt.
   ![run_code](https://github.com/haseeb-heaven/CodeRunner-Plugin/blob/master/resources/coderunner_output.png?raw=true "")</br>
 
-### Saving your code.
+### Salvando seu código.
 - To save your code, use the following prompt in the chat box and press enter:
 
   - Save the program [YOUR_CODE] with filename [YOUR_FILENAME]: This prompt will save the program [YOUR_CODE] with filename [YOUR_FILENAME]. Please replace [YOUR_CODE] and [YOUR_FILENAME] with your specific code and filename respectively when using this prompt.
 ![save_code](https://github.com/haseeb-heaven/CodeRunner-Plugin/blob/master/resources/coderunner_output_save.png?raw=true "")</br>
 
-### Downloading your code.
+### Baixando seu código.
 - To download your code, use the following prompt in the chat box and press enter:
 
   - Download the code filename [YOUR_FILENAME]: This prompt will download the code with filename [YOUR_FILENAME]. Please replace [YOUR_FILENAME] with your specific filename when using this prompt.
@@ -119,7 +119,7 @@ The localhost and server files are located in the following directories:
 For demo purpose i also created this in Quart framework. The files are located in the following directories:
 - Quart Main: `server/main_quart.py`
 
-## Showcase - Demo of Plugin.</br>
+##Privacy Policye - Demo of Plugin.</br>
 [![code_plugin_demo](https://img.youtube.com/vi/Ahko7E2S1R8/0.jpg)](https://www.youtube.com/watch?v=Ahko7E2S1R8)</br>
 
 ## Join Community.
@@ -132,7 +132,8 @@ To get help with Code Runner Plugin, use the following prompt in the chat box an
 ## License and Author
 Code Runner Plugin is licensed under the [Proprietary License](https://github.com/haseeb-heaven/CodeRunner-Plugin/blob/main/LICENSE).</br> make sure you read and understands everything written in license and agree to them before using the plugin.
 
-## Privacy Policy.
+## Política de privacidade
+Policy.
 The privacy policy for Plugin and Website could be found here [Privacy Policy](https://code-runner-plugin.vercel.app/privacy)
 make sure you read them carefully before executing them.
 
